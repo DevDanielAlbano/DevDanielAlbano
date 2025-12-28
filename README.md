@@ -32,7 +32,7 @@ Desenvolvedor Web Júnior focado em back-end, atuando principalmente com Python 
       <img align="center" alt="Streamlit" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg">
   </div>
   
-  ### Back-End
+  ### Backend
   <div style="display:inline_block">
       <img align="center" alt="Python" height="40" width="50" src="https://skillicons.dev/icons?i=py">
       <img align="center" alt="Django" height="40" width="50" src="https://skillicons.dev/icons?i=django">
